@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Game Development**
 
+- 🌐 I'm a member of **K4sper Entertainment** and **Epic Games** Organizations
+
 - 📫 How to reach me **vlad@k4sper-ent.com**
 
 <h3 align="left">Connect with me:</h3>
