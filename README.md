@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A student and passionate full stack developer working in Video Game🎮 Industry using Unreal Engine💪 and Epic Games Ecosystem♻️</h3>
+<h3 align="center">A student and passionate full-stack developer working in the Video Game🎮 Industry using Unreal Engine💪 and Epic Games Ecosystem♻️</h3>
 
 - 🔭 I’m currently working in **Unreal Engine**
 
