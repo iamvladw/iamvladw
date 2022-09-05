@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A student and passionate full stack developer working in Video Game🎮 Industry using Unreal Engine💪 and Epic Games Ecosystem♻️</h3>
 
-- 🔭 I’m currently working on **Cop-N-Rob**
+- 🔭 I’m currently working in **Unreal Engine**
 
-- 🌱 I’m currently learning **Unreal Engine because u can't know everything, they are still small gaps to fill in any domain😉**
+- 🌱 I’m currently learning **Game Development, because u can't know everything, they are still small gaps to fill in any domain😉**
 
 - 👯 I’m looking to collaborate on **new projects**
 
