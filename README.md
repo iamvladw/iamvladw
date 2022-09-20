@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/19921651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19921651" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/k4sper_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="k4sper_official" height="30" width="40" /></a>
-<a href="https://discord.gg/56AVvNKegN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="56AVvNKegN" height="30" width="40" /></a>
+<a href="https://discordapp.com/user/790319920822222849" target="blank"><img align="center" src="https://dcbadge.vercel.app/api/shield/790319920822222849" alt="56AVvNKegN" height="30" width="320" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +25,5 @@
 
 <p align="center">
 <img width="420" src=https://github-readme-stats.vercel.app/api?username=VladWhiteK&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=06080a&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
+ <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladWhiteK&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=06080a&layout=compact">
 </p>
