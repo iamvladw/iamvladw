@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/19921651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19921651" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/k4sper_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="k4sper_official" height="30" width="40" /></a>
-<a href="https://discordapp.com/user/790319920822222849" target="blank"><img align="center" src="https://dcbadge.vercel.app/api/shield/790319920822222849" alt="56AVvNKegN" height="30" width="220" /></a>
+<a href="https://discordapp.com/users/790319920822222849" target="blank"><img align="center" src="https://dcbadge.vercel.app/api/shield/790319920822222849" alt="56AVvNKegN" height="30" width="220" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
