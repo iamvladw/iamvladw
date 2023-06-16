@@ -26,6 +26,6 @@ Skills: 💻🎨 Proficient in TypeScript, JavaScript, C++, C#, Python, Lua, and
 - ⚡ Fun fact: TypeScript, a superset of JavaScript, adds static typing and enhanced tooling to the language, providing developers with increased productivity and catching potential errors at compile-time.
 
 <p align="center">
-<img width="420" src=https://github-readme-stats-sigma-five.vercel.app/api?username=VladWhiteK&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=25,3b3b3b,242424&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
- <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladWhiteK&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=25,3b3b3b,242424&layout=compact">
+<img width="420" src=https://github-readme-stats-sigma-five.vercel.app/api?username=iamvladw&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=90,3b3b3b,242424&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
+ <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamvladw&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=90,3b3b3b,242424&layout=compact">
 </p>
