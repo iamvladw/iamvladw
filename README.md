@@ -10,11 +10,11 @@
 </p>
  <h3 align="center"> 🚀 Skilled Full Stack Developer</h3>
 
-🚀 As a dedicated developer, I am fueled by a strong passion for creating innovative solutions and contributing to the open source community. With years of experience in the industry, I have honed my skills and gained valuable insights into various technologies and frameworks. I thrive on challenges and constantly seek new opportunities to expand my knowledge and expertise.
+🚀 As a dedicated developer, I am fueled by a strong rage for creating innovative solutions conducive to the unfold source community. With years of experience in the industry, I have honed my skills and gained valuable insights into versatile technologies and frameworks. I thrive on challenges and constantly seek new opportunities to expand my cognition and expertise.
 
-🌟 Collaboration is at the heart of my work philosophy. I believe that by working together, we can create something truly amazing. I value open communication, teamwork, and the exchange of ideas. Whether it's building a robust web application or crafting a seamless user experience, I am committed to delivering high-quality results that exceed expectations.
+🌟 Collaboration is at the heart of my work philosophy. I believe that by working together, we can produce something truly amazing. I value open communication, teamwork, and the exchange of ideas. Whether it's building a robust web practical application or crafting a smooth exploiter experience, I am pledged to deliver high-quality results that exceed expectations.
 
-💪 Apart from coding, I enjoy staying active and embracing a healthy lifestyle. I'm passionate about fitness and love spending time at the gym, challenging myself to push harder and reach new goals. In addition to my coding journey, I actively engage in the fitness community, sharing workout tips and motivating others to lead a healthy lifestyle. No Pain no Gain! 
+💪 Apart from coding, I undefined staying active voice and embracing a healthy lifestyle. I'm passionate well-nig fitness and love disbursal time at the gym, thought-provoking myself to push harder and reach new goals. In summation to my coding journey, I actively engage in the fitness community, sharing physical exertion tips and motivating others to lead a sound lifestyle. No Pain no Gain!
 
 Skills: 💻🎨 Proficient in TypeScript, JavaScript, C++, C#, Python, Lua, and SQL & NoSQL databases
 
