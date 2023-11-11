@@ -5,7 +5,6 @@
  <img align="center" src="https://komarev.com/ghpvc/?username=iamvladw" alt="Profile Views">
  <img align="center" src="https://img.shields.io/github/followers/iamvladw?style=flat" alt="GitHub Followers">
  <a href="https://discordapp.com/users/983450183071334410" target="blank"><img align="center" src="https://dcbadge.vercel.app/api/shield/983450183071334410?style=flat" alt="56AVvNKegN"/></a>
- <a href="https://www.youtube.com/channel/UCPCepIVz2eBl_i-SfQf3xUw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCPCepIVz2eBl_i-SfQf3xUw?color=%23FF0000&label=Youtube&logo=youtube&logoColor=%23FF0000&style=flat" alt="56AVvNKegN"/></a>
 <a herf="https://twitter.com/iamvladw" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/iamvladw?color=blue&label=Twitter&logo=twitter&style=flat">
 </p>
  <h3 align="center"> 🚀 Skilled Full Stack Developer</h3>
