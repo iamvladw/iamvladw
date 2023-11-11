@@ -16,11 +16,11 @@
 
 💪 Apart from coding, I undefined staying active voice and embracing a healthy lifestyle. I'm passionate well-nig fitness and love disbursal time at the gym, thought-provoking myself to push harder and reach new goals. In summation to my coding journey, I actively engage in the fitness community, sharing physical exertion tips and motivating others to lead a sound lifestyle. No Pain no Gain!
 
-Skills: 💻🎨 Proficient in TypeScript, JavaScript, C++, C#, Python, Lua, and SQL & NoSQL databases
+Skills: 💻🎨 Proficient in TypeScript, JavaScript, Go, C++, C#, Python, Lua, and SQL & NoSQL databases
 
-- 🔭 I’m currently working on Ecko Social Meda, developing the backend infrastructure and functionalities 
-- 🌱 I’m currently learning  Advanced optimization techniques to enhance the performance 
-- 🤝 I’m looking to collaborate on  Advanced database optimization techniques to enhance the performance of Ecko Social Media. 
+- 🔭 I’m currently working on custom DBs and ML models
+- 🌱 I’m currently learning Advanced optimization techniques to enhance the performance of projects
+- 🤝 I’m looking to collaborate on Advanced database optimization techniques to enhance the performance of projects 
 - 💬 Ask me about Frontend development best practices, backend infrastructure design, efficient database management, secure API integration, CDN implementation, DNS configurations, CI/CD automation, cloud deployment strategies, and more! 
 - 📫 How to reach me: Feel free to reach out to me at vladwhiteinbox@outlook.com for any inquiries or collaborations. 
 - ⚡ Fun fact: TypeScript, a superset of JavaScript, adds static typing and enhanced tooling to the language, providing developers with increased productivity and catching potential errors at compile-time.
