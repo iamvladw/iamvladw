@@ -29,4 +29,4 @@ Skills: 💻🎨 Proficient in TypeScript, JavaScript, Go, C++, C#, Python, Lua,
  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamvladw&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=90,3b3b3b,242424&layout=compact">
 </p>
 
-```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://avatars.githubusercontent.com/u/101019221?v=4.png?raw=true');]{x0000}$}
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/101019221?v=4.png?raw=true');]{x0000}$}
